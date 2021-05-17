@@ -1,4 +1,4 @@
-# food_course
+# liqour_course
 
 A new Flutter application.
 
